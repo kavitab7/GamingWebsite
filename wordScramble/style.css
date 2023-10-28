@@ -91,3 +91,10 @@ input {
 .hidden {
     display: none;
 }
+
+@media screen and (max-width: 670px) {
+    .gameArea {
+        width: 75%;
+        height: 55%;
+    }
+}
